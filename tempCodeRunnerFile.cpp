@@ -1,11 +1,10 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-    int umur = 15;
-    umur = 20;
+int main () { 
+    int p, l. luas; // deklarasi
 
-    cout << "ini string"<< endl;
-    cout << 123 << endl;
-    cout << umur;
+    //langkah 2
+    cout << "masukkan panjang = ";
+    cin >> p;
 }
